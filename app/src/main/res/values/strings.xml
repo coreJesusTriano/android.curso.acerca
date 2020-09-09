@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Acerca</string>
+    <string name="label_volver">Volver</string>
+    <string name="btn_acerca_de">Acerca de</string>
+    <string name="txt">Mi primera aplicación con dos actividades v. 1.0</string>
+</resources>
